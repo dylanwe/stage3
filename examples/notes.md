@@ -8,4 +8,8 @@ For desktop I'm thinking about examp2 and [Medium](https://medium.com/better-pro
 The primary color should be a version of blue #1E87FD with a softer version of #E0EBFD, and white and blue grayish. The accent color should be Otys yellow #FFD300.
 ### Fun stuff
 * Might be fun to add a theme switch: light, dark, auto. The standard should be auto which switches between light and dark based on time.
-* Have a little cms with a login. Add a [markdown editor](https://simplemde.com/) and a [markdown parser](https://parsedown.org/). split up sections with different markdown fields and give those sections the title of that section from the database.
+* Have a little cms with a login. Add a WYSIWYG like [CKEditor4](https://ckeditor.com/ckeditor-4/). split up sections with different fields and give those sections the title of that section from the database.
+* Create a logged-in session for the backend.
+* Add pagination for different sections.
+* Add lazy load to image
+* A page talking about the making of this periods report

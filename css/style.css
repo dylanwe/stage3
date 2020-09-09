@@ -10,6 +10,7 @@ body {
 }
 
 .markdown-body {
+    word-break: keep-all!important;
     max-width: 1012px;
     margin: 0 auto;
     padding: 15px;
